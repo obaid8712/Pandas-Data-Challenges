@@ -1,5 +1,5 @@
 # Pandas-Data-Challenges
-Lead Analyst of an promising independent gaming company named OZNJ, wants to find some real world information on following area. Data analytic team have been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli. The marketing excutive team is looking forword to get all the below data.
+Lead Analyst of an promising independent gaming company named OZNJ, wants to find some real world information on following area. Data analytic team have been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli. The marketing excutive team is looking forword to get all the data below.
 ### Player Count
 * Total Number of Players
 ### Purchasing Analysis (Total)
@@ -44,4 +44,4 @@ Lead Analyst of an promising independent gaming company named OZNJ, wants to fin
   - Item Price
   - Total Purchase Value
  
- Data analytic team finally came up with result and marketing team is going to make some policy to boost up marketing strategy.
+ Data analytic team finally came up with results and marketing team is going to make some policy to boost up marketing strategy.
