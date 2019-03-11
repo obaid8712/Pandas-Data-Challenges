@@ -43,4 +43,5 @@ Lead Analyst of an promising independent gaming company named OZNJ, wants to fin
   - Purchase Count
   - Item Price
   - Total Purchase Value
+ 
  Data analytic team finally came up with result and marketing team is going to make some policy to boost up marketing strategy.
