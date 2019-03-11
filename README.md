@@ -1,13 +1,13 @@
 # Pandas-Data-Challenges
 Lead Analyst of an promising independent gaming company named OZNJ, wants to find some real world information on following area. Data analytic team have been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli. The marketing excutive team is looking forword to get all the below data.
 # Player Count
-Total Number of Players
+* Total Number of Players
 # Purchasing Analysis (Total)
-Number of Unique Items
-Average Purchase Price
-Total Number of Purchases
-Total Revenue
-Gender Demographics
+* Number of Unique Items
+* Average Purchase Price
+* Total Number of Purchases
+* Total Revenue
+# Gender Demographics
 Percentage and Count of Male Players
 Percentage and Count of Female Players
 Percentage and Count of Other / Non-Disclosed
