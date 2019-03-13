@@ -44,6 +44,7 @@ Lead Analyst of an promising independent gaming company named OZNJ, wants to fin
   - Item Price
   - Total Purchase Value
  
+ ## Data Analysis Outcome
  Data analytic team finally came up with results and marketing team is going to make some policy to boost up marketing strategy.
  
  -  Out Of the 576 active players, the vast majority are male (84%). There also exists, a smaller, but notable proportion of female players (14%).
