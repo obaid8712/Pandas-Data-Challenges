@@ -50,6 +50,6 @@ Lead Analyst of an promising independent gaming company named OZNJ, wants to fin
 
 - Our peak age demographic falls between 20-24 (44.8%) with secondary groups falling between 15-19 (18.60%) and 25-29 (13.4%). 
 
-- Most popular item is "Oathbreaker, Last Hope of the Breaking Storm"
+- "Oathbreaker, Last Hope of the Breaking Storm" is the most popular item.
 
-- Most profitable item is also "Oathbreaker, Last Hope of the Breaking Storm"
+- "Oathbreaker, Last Hope of the Breaking Storm" is the most profitable item.
